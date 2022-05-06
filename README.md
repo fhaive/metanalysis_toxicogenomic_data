@@ -2,23 +2,9 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/fhaive/metanalysis_toxicogenomic_data">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">A gene regulation model reveals an ancestral adaptation response to particulate exposure triggered by nanomaterials</h3>
 
-  <p align="center">
-    <br />
-    <a href="https://github.com/fhaive/metanalysis_toxicogenomic_data"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/fhaive/metanalysis_toxicogenomic_data">View Demo</a>
-    ·
-    <a href="https://github.com/fhaive/metanalysis_toxicogenomic_data/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/fhaive/metanalysis_toxicogenomic_data/issues">Request Feature</a>
-  </p>
 </div>
 
 
